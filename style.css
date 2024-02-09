@@ -1,0 +1,9 @@
+:root { 
+    --cor-1: #E9ECF8;   
+    --cor-2: #052051;    
+}
+
+body {
+    background-color: var(--cor-1);
+    color: var(--cor-2);
+}
